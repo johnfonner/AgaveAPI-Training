@@ -14,19 +14,19 @@ This material demonstrates many of the capabilities of the Agave platform in a o
 
 ## Schedule
 
-|Time          | Topic                                                        |
+|Time           | Topic                                                       |
 |---------------|-------------------------------------------------------------|
-|  9:00 -  9:30 |  Introductions and surveys                                  |
 |  9:30 - 10:15 | Overview of the Agave API                                   |
 | 10:15 - 10:30 | Questions and Discussion                                    |
 | 10:30 - 10:45 | Break                                                       |
-| 10:45 - 12:00 | Hands-on Session 1: Managing Files and Systems              |
+| 10:45 - 12:00 | [Hands-on Session 1: Managing Files and Systems](systems.md)|
 | 12:00 -  1:00 | Lunch                                                       |
-|  1:00 -  2:15 | Hands-on Session 2: Apps and Jobs                           |
-|  2:15 -  3:00 | Hands-on Session 3: Metadata and Sharing                    |
-|  3:00 -  3:15 | Break                                                       |
-|  3:15 -  4:00 | Hands-on session 4: Scripting and web interfaces            |
-|  4:00 -  5:00 | FAQ and real-world applications hacking                     |
+|  1:00 -  2:00 | [Hands-on Session 2: Apps and Jobs](apps.md)                |
+|  2:00 -  2:45 | Hands-on Session 3: Metadata and Sharing                    |
+|  2:45 -  3:00 | Break                                                       |
+|  3:00 -  3:45 | Hands-on session 4: Scripting and web interfaces            |
+|  3:45 -  4:00 | FAQ and real-world applications hacking                     |
+
 
 ## Prequisites
 
