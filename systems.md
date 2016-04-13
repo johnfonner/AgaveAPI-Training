@@ -10,7 +10,7 @@ Storage systems tell Agave where data resides.  You can store files for running 
 
 ```json
 {
-  "id": "uhhpc1-lustre-jfonner",
+  "id": "uhhpc1-lustre-USERNAME",
   "name": "UH HPC1 SFTP Lustre Storage System",
   "type": "STORAGE",
   "description": "UH HPC Lustre storage system using SFTP at the University of Hawaii",
@@ -22,7 +22,7 @@ Storage systems tell Agave where data resides.  You can store files for running 
     "rootDir": "/",
     "homeDir": "/lus/scratch/USERNAME",
     "auth": {
-      "username": "jfonner",
+      "username": "USERNAME",
       "password": "CHANGME",
       "type": "PASSWORD"
     }
