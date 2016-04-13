@@ -16,7 +16,7 @@ This material demonstrates many of the capabilities of the Agave platform in a o
 
 |Time           | Topic                                                       |
 |---------------|-------------------------------------------------------------|
-|  9:30 - 10:15 | Overview of the Agave API                                   |
+|  9:30 - 10:15 | [Overview of the Agave API](TACC_Agave_Overview.pdf)        |
 | 10:15 - 10:30 | Questions and Discussion                                    |
 | 10:30 - 10:45 | Break                                                       |
 | 10:45 - 12:00 | [Hands-on Session 1: Managing Files and Systems](systems.md)|
